@@ -543,7 +543,7 @@
         // if there's no initial value try and fetch a placeholder
         if (!initial && self.standalone) {
             placeholder = true;
-            initial = source.data("placeholder") || ":smile:";
+            initial = '😀';
         }
         self.setText(initial, placeholder);
 

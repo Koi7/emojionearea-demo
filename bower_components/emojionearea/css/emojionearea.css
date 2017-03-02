@@ -397,7 +397,7 @@
     height: 14px;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA2CAMAAAC/bkrSAAAARVBMVEUAAAC/v7+fn5+ZmZmenp6Xl5ebm5uampqYmJibm5uampqYmJiYmJiYmJiYmJiXl5eYmJiYmJiXl5eYmJiZmZmampqbm5sJERIjAAAAEnRSTlMABAgPFSAzNUNFVnl8hvX4+fpxC8StAAAAbklEQVR42u3WuRKAIAxF0bhvuBHl/z9VZmzgpUBpLMxtk1OGgUSbhWpKt+Sh0wUpUvRT1EPDimjElZKsCJCs8YgxF8bYjdy7WJGiT9GBRachph7l3ZOZ4syOaMaNSt89RYoeIw5Lovw/bNtBBWEX3ut8mHtBARQAAAAASUVORK5CYII=); }
+}
   /* line 368, ../scss/emojionearea.scss */
   .emojionearea .emojionearea-button.placeholder img {
     opacity: 0.5; }
